@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "configuration.OracleConfiguration",
+      "name": "oracle",
+      "type": "configuration.OracleConfiguration"
+    }
+  ],
+  "properties": []
+}
